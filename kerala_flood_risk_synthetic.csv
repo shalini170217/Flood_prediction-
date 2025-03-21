@@ -1,0 +1,15 @@
+District,Probability,Severity
+Thiruvananthapuram,18,Low Risk
+Kollam,22,Low Risk
+Pathanamthitta,35,Moderate Risk
+Alappuzha,42,Moderate Risk
+Kottayam,57,Moderate Risk
+Idukki,78,High Risk
+Ernakulam,65,High Risk
+Thrissur,84,Severe Flood Alert
+Palakkad,49,Moderate Risk
+Malappuram,73,High Risk
+Kozhikode,66,High Risk
+Wayanad,80,Severe Flood Alert
+Kannur,61,High Risk
+Kasaragod,33,Moderate Risk
